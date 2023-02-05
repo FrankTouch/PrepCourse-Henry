@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio del Módulo 2 del PrepCourse de Henry
+Francisco Nellar
+
+Este proyecto es una prueba de como clonar un repositorio a mi repositorio local 
